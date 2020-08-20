@@ -3,3 +3,9 @@ div {
     height: 100px;
     background: #f00;
 }
+
+.test {
+    width: 200px;
+    height: 200px;
+    background: #ff0;
+}
